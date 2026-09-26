@@ -36,3 +36,5 @@ This project helps track expenses across different categories such as **Food, Fu
 The project demonstrates practical skills in **Excel, data management, expense tracking, formula-based analysis, and basic financial reporting**.
 
 **Skills demonstrated:** `Microsoft Excel` `Data Analysis` `Expense Tracking` `Financial Reporting` `COUNTIF` `SUM` `Data Management`
+## Dasboard
+<img width="1366" height="768" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/4ddf0f59-b55e-4cec-972d-33dfa1ba09a5" />
